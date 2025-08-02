@@ -20,7 +20,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/reasaint) 
 
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://www.twitch.tv/reasaint) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reasaintTTV) 
 
 
 # ⋆˚࿔ STACK 𝜗𝜚˚⋆ <br/>
