@@ -15,7 +15,12 @@
 
 
 ## ⋆˚࿔ SOCIAL 𝜗𝜚˚⋆
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zGH4qyD4) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/reasaint) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/reasaintTTV) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zGH4qyD4) 
+
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/reasaint) 
+
+
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://www.twitch.tv/reasaint) 
 
 
 # ⋆˚࿔ STACK 𝜗𝜚˚⋆ <br/>
